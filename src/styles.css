@@ -1,0 +1,30 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+.header {
+  display: flex;
+  margin: 0;
+  align-items: center;
+  justify-content: center;
+  height: 20vh;
+  font-family: "Franklin Gothic Light", "Arial Narrow", Arial, sans-serif;
+  color: white;
+  background-color: cadetblue;
+}
+
+.addTask {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 10vh;
+  border: solid 2px gold;
+  background-color: gold;
+}
+
+.addTaskButton {
+  background-color: cadetblue;
+  border: solid 2px white;
+  color: white;
+}
